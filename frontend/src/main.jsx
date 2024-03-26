@@ -8,7 +8,7 @@ import Home from "./components/Home.jsx";
 import Logs from "./components/Logs.jsx";
 import About from "./components/About.jsx";
 import Contact from "./components/Contact.jsx";
-import ErrorPage from "./Errorpage.jsx";
+import ErrorPage from "./ErrorPage.jsx";
 import Draft from "./components/Draft.jsx";
 import Notes from "./components/Notes.jsx";
 import Note from "./components/Note.jsx";
